@@ -3,6 +3,8 @@
 Overview:
 Adopto is a simple yet thoughtful web project created during our second year as our very first team endeavor. It serves as a digital platform where users can explore pets available for adoption, learn their stories, and get involved in supporting animal welfare.
 
+https://tejaswinilahe.github.io/ADOPTO--a-pet-adoption-website/
+
 Features:
 
 🐶 Adopt a Pet: Discover pets with unique backstories and choose your ideal companion.
